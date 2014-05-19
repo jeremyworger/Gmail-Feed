@@ -1,0 +1,6 @@
+c:\users\subodh.t\documents\visual studio 2013\Projects\Gmailfeed2\Gmailfeed2\bin\Gmailfeed2.dll.config
+c:\users\subodh.t\documents\visual studio 2013\Projects\Gmailfeed2\Gmailfeed2\bin\Gmailfeed2.dll
+c:\users\subodh.t\documents\visual studio 2013\Projects\Gmailfeed2\Gmailfeed2\bin\Gmailfeed2.pdb
+c:\users\subodh.t\documents\visual studio 2013\Projects\Gmailfeed2\Gmailfeed2\obj\Debug\Gmailfeed2.csprojResolveAssemblyReference.cache
+c:\users\subodh.t\documents\visual studio 2013\Projects\Gmailfeed2\Gmailfeed2\obj\Debug\Gmailfeed2.dll
+c:\users\subodh.t\documents\visual studio 2013\Projects\Gmailfeed2\Gmailfeed2\obj\Debug\Gmailfeed2.pdb

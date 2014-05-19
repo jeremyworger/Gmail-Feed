@@ -1,0 +1,17 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Gmailfeed2._default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+	<!--The Gmail Feed will be displayed in the form of grid view-->
+        <asp:GridView ID="feedGrid" runat="server"></asp:GridView>
+    </div>
+    </form>
+</body>
+</html>
