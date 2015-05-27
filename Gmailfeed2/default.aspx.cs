@@ -16,7 +16,7 @@ namespace Gmailfeed2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            /*Gmail Username and Password Section*/
             string username = "/*______Replace With Your Gmail Username__________*/";
             string password = "/*______Replace with your Gmail Password__________*/";
             string url = (@"https://gmail.google.com/gmail/feed/atom");
