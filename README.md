@@ -6,6 +6,8 @@ Gmail-Feed retrieves the the unread messages from inbox and display the feed in 
 How To Use :
 ------------
 
+- Gmailfeed2/default.aspx.cs
+
 Edit the default.aspx.cs file under the comment 
 
     /*Gmail Username and Password Section*/
