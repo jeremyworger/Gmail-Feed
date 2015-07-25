@@ -10,6 +10,7 @@ How To Use :
 
 Edit the default.aspx.cs file under the comment 
 
+    '''javascript
     /*Gmail Username and Password Section*/
     
     string username = "/*______Replace With Your Gmail Username__________*/";
@@ -18,7 +19,9 @@ Edit the default.aspx.cs file under the comment
     
 Example:
 --------
-
+    
+    '''javascript
+    
     /*Gmail Username and Password Section*/
     
     string username = "subodhgithub"; // Gmail Username
